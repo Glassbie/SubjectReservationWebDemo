@@ -2,7 +2,7 @@
   <div class="home">
     <br />
     <p style="font-family: Roboto; font-size: 18pt">
-      SIT Subject Reservation Web By Gibssale
+      SIT Subject Reservation Web no feature/list-subjects
     </p>
     <br />
     <v-row justify="center" align="top" no-gutters style="height: 150px">
